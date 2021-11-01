@@ -13,7 +13,7 @@ hello world!
 桂靖洲
 张大饼
 査桑
-吴桑
+吴桑不似len啊！
 My stupid still prefers SVN.
 超琪学姐
 廖雪峰的官方网站
