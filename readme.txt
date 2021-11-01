@@ -13,3 +13,5 @@ hello world!
 桂靖洲
 张大饼
 査桑
+吴桑
+My stupid still prefers SVN.
